@@ -7,34 +7,21 @@ This repository was created in order to follow the uDemy course:
 You'll find the following patterns:
 
 * Builder
+* Simple Factory
 
-
-
-Course Overview
+## Course Overview
 
     This course starts with SOLID Design Principles in Java. It will then provide a comprehensive introduction to Java Design patterns with practical, hands on exercises.
 
+## SOLID Design Principles
 
+SOLID design principles are almost a mandatory skill for every Java developer. These principles enable you to write most reusable & clean Java code in your projects. The SOLID Principles are:
 
-What are SOLID Design Principles?
-
-SOLID design principles are almost a mandatory skill for every Java developer. These principles enable you to write most reusable & clean Java code in your projects.
-
-You'll learn SOLID Principles which are:
-
-Single Responsibility Principle
-
-Open-Closed Principle
-
-Liskov Substitution Principle
-
-Interface Segregation Principle
-
-Dependency Inversion Principle
-
-
-
-All these principles are explained in detail and you'll refactor existing Java code and apply these principles in hands on exercise along with me.
+* Single Responsibility Principle
+* Open-Closed Principle
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
 
 Then we move on to Java Design Patterns.
 
