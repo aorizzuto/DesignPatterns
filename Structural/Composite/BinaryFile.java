@@ -1,4 +1,4 @@
-package Structural.Composite;
+
 
 public class BinaryFile extends File {
 	

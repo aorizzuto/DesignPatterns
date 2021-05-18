@@ -1,5 +1,3 @@
-package Structural.Composite;
-
 // Component base class for composite pattern
 public abstract class File {
 
