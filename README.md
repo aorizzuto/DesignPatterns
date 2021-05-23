@@ -6,7 +6,7 @@ This repository was created in order to follow the uDemy course:
 
 ## Overview
 
-    This course starts with SOLID Design Principles in Java. It will then provide a comprehensive introduction to Java Design patterns with practical, hands on exercises.
+This course starts with SOLID Design Principles in Java. It will then provide a comprehensive introduction to Java Design patterns with practical, hands on exercises.
 
 ____________________
 
