@@ -1,16 +1,17 @@
 package Structural.Proxy;
 
-import javafx.geometry.Point2D;
 
 public class Client {
 
 	public static void main(String[] args) {
-		Image img = ImageFactory.getImage("A1.bmp");
+		Image image = new ProxyImage("test_10mb.jpg");
+  
+		//image will be loaded from disk
+		image.display(); 
+		System.out.println("");
 		
-		img.setLocation(new Point2D(10,10));
-		System.out.println("Image location :"+img.getLocation());
-		System.out.println("rendering image now.....");
-		img.render();
-	}
+		//image will not be loaded from disk
+		image.display(); 	
+	 }
 
 }
