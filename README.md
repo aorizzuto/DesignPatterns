@@ -1,7 +1,6 @@
 # DesignPatterns
 
 This repository was created in order to follow the uDemy course:
-
 **Java Design Patterns & SOLID Design Principles**
 
 ## Overview
