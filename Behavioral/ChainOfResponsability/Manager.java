@@ -18,8 +18,9 @@ public class Manager extends Employee {
 				application.approve(getApproverRole());
 				return true;
 			}
+		default:
+			return false;
 		}
-		return false;
 	}
 	
 }
